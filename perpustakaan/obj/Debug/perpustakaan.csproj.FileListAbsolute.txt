@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2015\Projects\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Form3.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Form4.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csprojResolveAssemblyReference.cache
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe.config
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
